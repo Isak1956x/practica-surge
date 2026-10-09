@@ -1,5 +1,7 @@
 # Práctica CI/CD: Despliegue Automático con GitHub Actions y Surge.sh
 
+![Deploy to Surge](https://github.com/Isak1956x/practica-surge/actions/workflows/main.yml/badge.svg)
+
 Este repositorio contiene una página web estática configurada con integración y despliegue continuo (CI/CD) utilizando **GitHub Actions** y **Surge.sh**.
 
 ## 🚀 Enlace del Despliegue en Vivo
